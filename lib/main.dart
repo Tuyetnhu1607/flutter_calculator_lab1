@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.white,
         body: const Center(
           child: Text(
-            'Hello World – Lê Minh Trường',
+            'Hello World – Hà Ngọc Tuyết Như',
             style: TextStyle(
               fontSize: 28,
               fontWeight: FontWeight.bold,
